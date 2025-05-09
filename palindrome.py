@@ -3,3 +3,7 @@
 #For example, wow is a paldindrome.
 #A different file wile be used for grading.
 #Correct answer for this file: 
+
+
+
+#There are 14 palindromes in the file.
